@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hidden Berkeley
+title: Hidden Berkeley: A Newcomer's Guide
 ---
 
-# Hidden Berkeley
+# Hidden Berkeley: A Newcomer's Guide
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Welcome to UC Berkeley! This guide is designed to help new students and visitors discover hidden campus gems and essential everyday services. From peaceful reading spots to campus support locations, explore these helpful resources to make the most of your time at Berkeley.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
@@ -22,3 +22,4 @@ A starting guide to Berkeley places and services. Check each resource's official
 ---
 
 The entries come from this project's CSV. Confirm current details using the official links.
+
